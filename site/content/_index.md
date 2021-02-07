@@ -1,20 +1,29 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: Aangenaam circulair wonen
+subtitle: Gerenoveerde woningen naar uw smaak
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Waarom MG Bouw renovaties?
+  text: In een dichtbevolkt land als België zijn gerenoveerde woningen de meest
+    verantwoorde manier van leven. Voldoen aan de huidige, comfortabele
+    levensstandaard zonder verspilling van plaats.
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: Wat we aanbieden
+  text: Hergebruikte, totaal gerenoveerde aangename woningen in de omgeving van
+    Limburg.
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: img/house-with-heart-svgrepo-com.svg
+    text: Huisje in Rummen met stijlvolle, luxueuze badkamer en huiselijke living
+      zithoek.
+  - image: img/house-with-heart-svgrepo-com.svg
+    text: Appartement in Diest met slimme, plaatsuitsparende badkamer en keuken.
+      Grote en gezellige leefruimte met open afgebakende bureau.
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
----
+  heading: Onze waardes
+  text: >-
+    Verbouwen is een hele klus en vereist vakmanschap op alle vlakken, van
+    elektriciteit en sanitair tot gedetailleerde afwerking en ecologisch
+    verantwoord energie-verbruik.
 
+    Met al onze professionele kennis en vakmanschap renoveren we huizen zodat ze klaar zijn voor de 21e eeuw.
+---
