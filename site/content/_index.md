@@ -11,7 +11,7 @@ intro:
   heading: Wat we aanbieden
   text: Hergebruikte, totaal gerenoveerde aangename woningen in de omgeving van
     Limburg.
-products:
+projects:
   - image: img/house-with-heart-svgrepo-com.svg
     text: Huisje in Rummen met stijlvolle, luxueuze badkamer en huiselijke living
       zithoek.
