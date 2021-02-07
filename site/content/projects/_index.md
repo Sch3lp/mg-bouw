@@ -1,5 +1,5 @@
 ---
-title: Onze Projecten
+title: Renoveren
 image: /img/products-jumbotron.jpg
 heading: Renovatie technieken
 description: Showcase van onze renovatie technieken
